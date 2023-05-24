@@ -15,8 +15,8 @@ Create a conda environment, and install the required packages:
 https://scikit-learn.org/stable/install.html
 - Numpy
 https://numpy.org/install/
-- Seaborn
-https://seaborn.pydata.org/installing.html
+- Pandas
+https://pandas.pydata.org/docs/getting_started/install.html
 - Matplotlib
 https://matplotlib.org/stable/users/installing/index.html
 
